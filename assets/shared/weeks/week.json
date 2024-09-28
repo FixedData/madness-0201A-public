@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["assassination", "gf", [165, 0, 77]],
+		["madness", "gf", [165, 0, 77]],
+		["expurgation", "gf", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

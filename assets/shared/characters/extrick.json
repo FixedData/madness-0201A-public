@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-23,
+				-67
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "t idle"
+		},
+		{
+			"offsets": [
+				203,
+				-109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "t left"
+		},
+		{
+			"offsets": [
+				-41,
+				-196
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "t down"
+		},
+		{
+			"offsets": [
+				-39,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "t up"
+		},
+		{
+			"offsets": [
+				-104,
+				-92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "t right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "t enter",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "kill",
+			"fps": 24,
+			"name": "t kill",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				78
+			],
+			"anim": "hank",
+			"fps": 24,
+			"name": "t scream",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-25,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "ending",
+			"loop": true,
+			"name": "ending"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/extricky",
+	"position": [
+		200,
+		-130
+	],
+	"healthicon": "icon_tricky",
+	"flip_x": false,
+	"healthbar_colors": [
+		203,
+		46,
+		26
+	],
+	"camera_position": [
+		-40,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

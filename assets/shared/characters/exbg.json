@@ -1,0 +1,157 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-117,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf pose/b idle"
+		},
+		{
+			"offsets": [
+				-120,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf pose/b left"
+		},
+		{
+			"offsets": [
+				-116,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf pose/b down"
+		},
+		{
+			"offsets": [
+				-115,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf pose/b up"
+		},
+		{
+			"offsets": [
+				-112,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf pose/b right"
+		},
+		{
+			"offsets": [
+				-115,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "bf pose/b miss left"
+		},
+		{
+			"offsets": [
+				-115,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "bf pose/b miss down"
+		},
+		{
+			"offsets": [
+				-119,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "bf pose/b miss up"
+		},
+		{
+			"offsets": [
+				-115,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "bf pose/b miss right"
+		},
+		{
+			"offsets": [
+				-176,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "bf pose/b gameover"
+		},
+		{
+			"offsets": [
+				-176,
+				-38
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "bf pose/b die loop"
+		},
+		{
+			"offsets": [
+				-176,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "bf pose/b retry confirm"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/exboygrunt",
+	"position": [
+		-330,
+		190
+	],
+	"healthicon": "icon_boygrunt",
+	"flip_x": true,
+	"healthbar_colors": [
+		77,
+		80,
+		128
+	],
+	"camera_position": [
+		-40,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

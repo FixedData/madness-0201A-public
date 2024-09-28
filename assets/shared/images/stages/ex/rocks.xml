@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="rocks.png" width="4012" height="2394">
+	<SubTexture name="ground_bf" x="0" y="1491" width="3152" height="573" frameX="-0" frameY="-0" frameWidth="3152" frameHeight="573"/>
+	<SubTexture name="ground_tricky" x="0" y="0" width="3329" height="1486" frameX="-0" frameY="-0" frameWidth="3329" frameHeight="1486"/>
+	<SubTexture name="rock_1" x="3334" y="0" width="637" height="456" frameX="-0" frameY="-0" frameWidth="637" frameHeight="456"/>
+	<SubTexture name="rock_2" x="3157" y="1491" width="855" height="903" frameX="-0" frameY="-0" frameWidth="855" frameHeight="903"/>
+</TextureAtlas>

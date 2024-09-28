@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="storymode.png" width="421" height="62">
+	<SubTexture name="storymode confirm0000" x="0" y="0" width="137" height="62" frameX="-0" frameY="-0" frameWidth="138" frameHeight="62"/>
+	<SubTexture name="storymode confirm0001" x="0" y="0" width="137" height="62" frameX="-0" frameY="-0" frameWidth="138" frameHeight="62"/>
+	<SubTexture name="storymode confirm0002" x="0" y="0" width="137" height="62" frameX="-0" frameY="-0" frameWidth="138" frameHeight="62"/>
+	<SubTexture name="storymode confirm0003" x="0" y="0" width="137" height="62" frameX="-0" frameY="-0" frameWidth="138" frameHeight="62"/>
+	<SubTexture name="storymode confirm0004" x="0" y="0" width="137" height="62" frameX="-0" frameY="-0" frameWidth="138" frameHeight="62"/>
+	<SubTexture name="storymode confirm0005" x="0" y="0" width="137" height="62" frameX="-0" frameY="-0" frameWidth="138" frameHeight="62"/>
+	<SubTexture name="storymode confirm0006" x="0" y="0" width="137" height="62" frameX="-0" frameY="-0" frameWidth="138" frameHeight="62"/>
+	<SubTexture name="storymode confirm0007" x="0" y="0" width="137" height="62" frameX="-0" frameY="-0" frameWidth="138" frameHeight="62"/>
+	<SubTexture name="storymode confirm0008" x="0" y="0" width="137" height="62" frameX="-0" frameY="-0" frameWidth="138" frameHeight="62"/>
+	<SubTexture name="storymode confirm0009" x="0" y="0" width="137" height="62" frameX="-0" frameY="-0" frameWidth="138" frameHeight="62"/>
+	<SubTexture name="storymode select0000" x="284" y="0" width="137" height="61" frameX="-0" frameY="-1" frameWidth="137" frameHeight="62"/>
+	<SubTexture name="storymode0000" x="142" y="0" width="137" height="62" frameX="-0" frameY="-0" frameWidth="138" frameHeight="62"/>
+</TextureAtlas>

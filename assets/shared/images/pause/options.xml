@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="options.png" width="4025" height="188">
+	<SubTexture name="exit default0000" x="3406" y="0" width="307" height="183" frameX="-10" frameY="-38" frameWidth="328" frameHeight="257"/>
+	<SubTexture name="exit selected0000" x="3718" y="0" width="307" height="183" frameX="-10" frameY="-38" frameWidth="328" frameHeight="257"/>
+	<SubTexture name="opt default0000" x="1164" y="0" width="575" height="188" frameX="-10" frameY="-36" frameWidth="598" frameHeight="257"/>
+	<SubTexture name="opt selected0000" x="1744" y="0" width="575" height="188" frameX="-10" frameY="-36" frameWidth="598" frameHeight="257"/>
+	<SubTexture name="restart default0000" x="0" y="0" width="577" height="188" frameX="-11" frameY="-36" frameWidth="598" frameHeight="257"/>
+	<SubTexture name="restart selected0000" x="582" y="0" width="577" height="188" frameX="-11" frameY="-36" frameWidth="598" frameHeight="257"/>
+	<SubTexture name="restart selected0001" x="582" y="0" width="577" height="188" frameX="-11" frameY="-36" frameWidth="598" frameHeight="257"/>
+	<SubTexture name="restart selected0002" x="582" y="0" width="577" height="188" frameX="-11" frameY="-36" frameWidth="598" frameHeight="257"/>
+	<SubTexture name="resume default0000" x="2324" y="0" width="536" height="188" frameX="-11" frameY="-36" frameWidth="560" frameHeight="257"/>
+	<SubTexture name="resume selected0000" x="2865" y="0" width="536" height="188" frameX="-11" frameY="-36" frameWidth="560" frameHeight="257"/>
+</TextureAtlas>

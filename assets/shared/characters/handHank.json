@@ -1,0 +1,179 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				139,
+				999
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "hank in hand idle"
+		},
+		{
+			"offsets": [
+				139,
+				999
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hank in hand down"
+		},
+		{
+			"offsets": [
+				139,
+				999
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hank in hand up"
+		},
+		{
+			"offsets": [
+				139,
+				999
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hank in hand right"
+		},
+		{
+			"offsets": [
+				189,
+				1032
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hank in hand left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				999
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "hank in hand miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				999
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "hank in hand miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				999
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "hank in hand miss right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				189,
+				1032
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "hank in hand miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "grabbed",
+			"fps": 24,
+			"name": "hank grab",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				999
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "hank in hand game over",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				999
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "hank in hand retry confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				999
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "hank in hand game loop over",
+			"indices": []
+		},
+		{
+			"offsets": [
+				142,
+				1003
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "killed",
+			"indices": [],
+			"name": "hank in hand end"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/handhank",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		-370
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

@@ -1,0 +1,35 @@
+﻿{"ATLAS": {"SPRITES":[ 
+{"SPRITE" : {"name": "0000","x":559,"y":761,"w":139,"h":103,"rotated": false}},
+{"SPRITE" : {"name": "0001","x":737,"y":0,"w":740,"h":736,"rotated": false}},
+{"SPRITE" : {"name": "0002","x":0,"y":1360,"w":1303,"h":105,"rotated": false}},
+{"SPRITE" : {"name": "0003","x":737,"y":0,"w":740,"h":736,"rotated": false}},
+{"SPRITE" : {"name": "0004","x":1487,"y":595,"w":440,"h":99,"rotated": false}},
+{"SPRITE" : {"name": "0005","x":1487,"y":486,"w":516,"h":99,"rotated": false}},
+{"SPRITE" : {"name": "0006","x":0,"y":1550,"w":380,"h":56,"rotated": false}},
+{"SPRITE" : {"name": "0007","x":1313,"y":1360,"w":464,"h":77,"rotated": false}},
+{"SPRITE" : {"name": "0008","x":1481,"y":1523,"w":435,"h":65,"rotated": false}},
+{"SPRITE" : {"name": "0009","x":1036,"y":1523,"w":435,"h":66,"rotated": false}},
+{"SPRITE" : {"name": "0010","x":518,"y":1549,"w":435,"h":64,"rotated": false}},
+{"SPRITE" : {"name": "0011","x":0,"y":1288,"w":464,"h":59,"rotated": false}},
+{"SPRITE" : {"name": "0012","x":0,"y":1202,"w":529,"h":76,"rotated": false}},
+{"SPRITE" : {"name": "0013","x":0,"y":1475,"w":508,"h":65,"rotated": false}},
+{"SPRITE" : {"name": "0014","x":1313,"y":1447,"w":508,"h":66,"rotated": false}},
+{"SPRITE" : {"name": "0015","x":518,"y":1475,"w":508,"h":64,"rotated": false}},
+{"SPRITE" : {"name": "0016","x":737,"y":746,"w":552,"h":604,"rotated": false}},
+{"SPRITE" : {"name": "0017","x":1299,"y":746,"w":552,"h":604,"rotated": false}},
+{"SPRITE" : {"name": "0018","x":1487,"y":0,"w":535,"h":476,"rotated": false}},
+{"SPRITE" : {"name": "0019","x":0,"y":761,"w":549,"h":431,"rotated": false}},
+{"SPRITE" : {"name": "0020","x":1861,"y":704,"w":133,"h":109,"rotated": false}},
+{"SPRITE" : {"name": "0021","x":0,"y":0,"w":727,"h":751,"rotated": false}},
+{"SPRITE" : {"name": "0022","x":737,"y":0,"w":740,"h":736,"rotated": false}},
+{"SPRITE" : {"name": "0023","x":737,"y":0,"w":740,"h":736,"rotated": false}}
+]},
+"meta": {
+"app": "Adobe Animate",
+"version": "23.0.1.70",
+"image": "spritemap1.png",
+"format": "RGBA8888",
+"size": {"w":2022,"h":1613},
+"resolution": "1"
+}
+}

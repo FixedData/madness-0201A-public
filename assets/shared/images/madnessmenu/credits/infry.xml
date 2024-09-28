@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="credit grunts.png" width="1471" height="1407">
+	<SubTexture name="infry0000" x="931" y="1040" width="1" height="1" frameX="-0" frameY="-0" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0001" x="931" y="1040" width="1" height="1" frameX="-0" frameY="-0" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0002" x="931" y="1040" width="1" height="1" frameX="-0" frameY="-0" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0003" x="931" y="1040" width="1" height="1" frameX="-0" frameY="-0" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0004" x="931" y="1040" width="1" height="1" frameX="-0" frameY="-0" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0005" x="931" y="1040" width="1" height="1" frameX="-0" frameY="-0" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0006" x="931" y="1040" width="1" height="1" frameX="-0" frameY="-0" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0007" x="931" y="1040" width="1" height="1" frameX="-0" frameY="-0" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0008" x="931" y="1040" width="1" height="1" frameX="-0" frameY="-0" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0009" x="931" y="1040" width="1" height="1" frameX="-0" frameY="-0" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0010" x="931" y="1040" width="1" height="1" frameX="-0" frameY="-0" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0011" x="0" y="787" width="196" height="408" frameX="-261" frameY="-0" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0012" x="0" y="787" width="196" height="408" frameX="-261" frameY="-0" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0013" x="721" y="1257" width="427" height="110" rotated="true" frameX="-321" frameY="-370" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0014" x="721" y="1257" width="427" height="110" rotated="true" frameX="-321" frameY="-370" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0015" x="201" y="1008" width="371" height="203" frameX="-169" frameY="-679" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0016" x="201" y="1008" width="371" height="203" frameX="-169" frameY="-679" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0017" x="975" y="0" width="299" height="258" frameX="-238" frameY="-645" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0018" x="975" y="0" width="299" height="258" frameX="-238" frameY="-645" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0019" x="1279" y="0" width="185" height="371" rotated="true" frameX="-144" frameY="-698" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0020" x="1279" y="0" width="185" height="371" rotated="true" frameX="-144" frameY="-698" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0021" x="1049" y="630" width="320" height="231" frameX="-216" frameY="-661" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0022" x="1049" y="630" width="320" height="231" frameX="-216" frameY="-661" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0023" x="1049" y="866" width="355" height="190" frameX="-172" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0024" x="1049" y="866" width="355" height="190" frameX="-172" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0025" x="1076" y="376" width="340" height="199" frameX="-192" frameY="-685" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0026" x="1076" y="376" width="340" height="199" frameX="-192" frameY="-685" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0027" x="577" y="1040" width="349" height="190" frameX="-180" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0028" x="577" y="1040" width="349" height="190" frameX="-180" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0029" x="931" y="1061" width="345" height="191" frameX="-186" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0030" x="931" y="1061" width="345" height="191" frameX="-186" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0031" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0032" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0033" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0034" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0035" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0036" x="0" y="0" width="347" height="468" frameX="-186" frameY="-417" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0037" x="0" y="0" width="347" height="468" frameX="-186" frameY="-417" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0038" x="352" y="0" width="328" height="483" frameX="-178" frameY="-410" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0039" x="352" y="0" width="328" height="483" frameX="-178" frameY="-410" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0040" x="372" y="742" width="354" height="261" frameX="-221" frameY="-627" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0041" x="372" y="742" width="354" height="261" frameX="-221" frameY="-627" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0042" x="352" y="0" width="328" height="483" frameX="-178" frameY="-410" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0043" x="372" y="742" width="354" height="261" frameX="-221" frameY="-627" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0044" x="352" y="0" width="328" height="483" frameX="-178" frameY="-410" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0045" x="0" y="0" width="347" height="468" frameX="-186" frameY="-417" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0046" x="1281" y="1061" width="190" height="346" rotated="true" frameX="-184" frameY="-693" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0047" x="1281" y="1061" width="190" height="346" rotated="true" frameX="-184" frameY="-693" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0048" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0049" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0050" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0051" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0052" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0053" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0054" x="1281" y="1061" width="190" height="346" rotated="true" frameX="-184" frameY="-693" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0055" x="352" y="0" width="328" height="483" frameX="-178" frameY="-410" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0056" x="351" y="1235" width="365" height="168" frameX="-167" frameY="-710" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0057" x="351" y="1235" width="365" height="168" frameX="-167" frameY="-710" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0058" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0059" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0060" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0061" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0062" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0063" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0064" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0065" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0066" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0067" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0068" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0069" x="0" y="1216" width="346" height="191" frameX="-184" frameY="-692" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0070" x="0" y="488" width="367" height="294" rotated="true" frameX="-233" frameY="-514" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0071" x="0" y="488" width="367" height="294" rotated="true" frameX="-233" frameY="-514" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0072" x="0" y="488" width="367" height="294" rotated="true" frameX="-233" frameY="-514" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0073" x="685" y="0" width="285" height="306" frameX="-217" frameY="-573" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0074" x="685" y="0" width="285" height="306" frameX="-217" frameY="-573" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0075" x="685" y="0" width="285" height="306" frameX="-217" frameY="-573" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0076" x="731" y="742" width="313" height="293" frameX="-198" frameY="-586" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0077" x="731" y="742" width="313" height="293" frameX="-198" frameY="-586" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0078" x="731" y="742" width="313" height="293" frameX="-198" frameY="-586" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0079" x="731" y="742" width="313" height="293" frameX="-198" frameY="-586" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0080" x="731" y="742" width="313" height="293" frameX="-198" frameY="-586" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0081" x="731" y="742" width="313" height="293" frameX="-198" frameY="-586" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0082" x="731" y="742" width="313" height="293" frameX="-198" frameY="-586" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0083" x="731" y="742" width="313" height="293" frameX="-198" frameY="-586" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0084" x="731" y="742" width="313" height="293" frameX="-198" frameY="-586" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0085" x="731" y="742" width="313" height="293" frameX="-198" frameY="-586" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0086" x="731" y="742" width="313" height="293" frameX="-198" frameY="-586" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0087" x="731" y="742" width="313" height="293" frameX="-198" frameY="-586" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0088" x="731" y="742" width="313" height="293" frameX="-198" frameY="-586" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0089" x="731" y="742" width="313" height="293" frameX="-198" frameY="-586" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0090" x="731" y="742" width="313" height="293" frameX="-198" frameY="-586" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0091" x="731" y="742" width="313" height="293" frameX="-198" frameY="-586" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0092" x="731" y="742" width="313" height="293" frameX="-198" frameY="-586" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0093" x="731" y="742" width="313" height="293" frameX="-198" frameY="-586" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0094" x="731" y="742" width="313" height="293" frameX="-198" frameY="-586" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0095" x="731" y="742" width="313" height="293" frameX="-198" frameY="-586" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0096" x="731" y="742" width="313" height="293" frameX="-198" frameY="-586" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0097" x="731" y="742" width="313" height="293" frameX="-198" frameY="-586" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0098" x="799" y="311" width="272" height="314" frameX="-231" frameY="-565" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0099" x="799" y="311" width="272" height="314" frameX="-231" frameY="-565" frameWidth="581" frameHeight="904"/>
+	<SubTexture name="infry0100" x="372" y="488" width="422" height="249" rotated="true" frameX="-302" frameY="-461" frameWidth="581" frameHeight="904"/>
+</TextureAtlas>

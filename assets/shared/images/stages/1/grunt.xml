@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="grunt.png" width="1164" height="253">
+	<SubTexture name="gruntbop0000" x="0" y="0" width="391" height="247" frameX="-0" frameY="-4" frameWidth="391" frameHeight="254"/>
+	<SubTexture name="gruntbop0001" x="0" y="0" width="391" height="247" frameX="-0" frameY="-4" frameWidth="391" frameHeight="254"/>
+	<SubTexture name="gruntbop0002" x="396" y="0" width="385" height="252" frameX="-5" frameY="-1" frameWidth="391" frameHeight="254"/>
+	<SubTexture name="gruntbop0003" x="396" y="0" width="385" height="252" frameX="-5" frameY="-1" frameWidth="391" frameHeight="254"/>
+	<SubTexture name="gruntbop0004" x="786" y="0" width="378" height="253" frameX="-9" frameY="-0" frameWidth="391" frameHeight="254"/>
+	<SubTexture name="gruntbop0005" x="786" y="0" width="378" height="253" frameX="-9" frameY="-0" frameWidth="391" frameHeight="254"/>
+</TextureAtlas>

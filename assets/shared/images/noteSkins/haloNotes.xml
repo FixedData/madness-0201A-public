@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="haloNotes.png" width="394" height="429">
+	<SubTexture name="blue0000" x="0" y="0" width="187" height="195" frameX="-3" frameY="-3" frameWidth="197" frameHeight="204"/>
+	<SubTexture name="purple0000" x="192" y="0" width="202" height="173" rotated="true" frameX="-2" frameY="-3" frameWidth="182" frameHeight="212"/>
+	<SubTexture name="red0000" x="0" y="200" width="202" height="174" rotated="true" frameX="-1" frameY="-3" frameWidth="182" frameHeight="212"/>
+	<SubTexture name="green0000" x="207" y="178" width="187" height="195" frameX="-3" frameY="-3" frameWidth="197" frameHeight="203"/>
+	<SubTexture name="blue hold end0000" x="207" y="378" width="64" height="50" rotated="true" frameX="-0" frameY="-0" frameWidth="50" frameHeight="64"/>
+	<SubTexture name="blue hold piece0000" x="0" y="379" width="44" height="50" rotated="true" frameX="-0" frameY="-0" frameWidth="50" frameHeight="44"/>
+	<SubTexture name="green hold end0000" x="207" y="378" width="64" height="50" rotated="true" frameX="-0" frameY="-0" frameWidth="50" frameHeight="64"/>
+	<SubTexture name="green hold piece0000" x="0" y="379" width="44" height="50" rotated="true" frameX="-0" frameY="-0" frameWidth="50" frameHeight="44"/>
+	<SubTexture name="purple hold end0000" x="207" y="378" width="64" height="50" rotated="true" frameX="-0" frameY="-0" frameWidth="50" frameHeight="64"/>
+	<SubTexture name="purple hold piece0000" x="0" y="379" width="44" height="50" rotated="true" frameX="-0" frameY="-0" frameWidth="50" frameHeight="44"/>
+	<SubTexture name="red hold end0000" x="207" y="378" width="64" height="50" rotated="true" frameX="-0" frameY="-0" frameWidth="50" frameHeight="64"/>
+	<SubTexture name="red hold piece0000" x="0" y="379" width="44" height="50" rotated="true" frameX="-0" frameY="-0" frameWidth="50" frameHeight="44"/>
+</TextureAtlas>
